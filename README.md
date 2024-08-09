@@ -1,8 +1,9 @@
 <h2 align="left">Hi 👋! My name is Javier and I'm a front end developer from Mexico</h2>
 
 ###
-
-<img align="right" height="150" src="https://media3.giphy.com/media/JqmupuTVZYaQX5s094/200w.gif?cid=6c09b952tjyzw8iaduwm0pfjs9vrx03btvrkz122m4fibk3q&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+<div align="center">
+  <img align="right" height="150" src="https://media3.giphy.com/media/JqmupuTVZYaQX5s094/200w.gif?cid=6c09b952tjyzw8iaduwm0pfjs9vrx03btvrkz122m4fibk3q&ep=v1_gifs_search&rid=200w.gif&ct=g"  />
+</div>
 
 ###
 

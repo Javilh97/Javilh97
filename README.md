@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Javier and I'm a front end developer from Mexico</h2>
+<h2 align="left">Hi 👋! My name is Javier and I'm a front end developer from Mexico :mexico: </h2>
 
 ###
 <div align="center">
@@ -44,7 +44,5 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/javilh97/javilh97/output/snake.svg" alt="Snake animation" />
 
 ###

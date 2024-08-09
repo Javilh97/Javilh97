@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Javier and I'm a front end developer from Mexico 🇲🇽 </h2>
+<h2 align="left">Hi 👋! My name is Javier and I'm a front end developer from Mexico </h2> 🇲🇽
 
 ###
 <div align="center">

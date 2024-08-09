@@ -1,4 +1,4 @@
-# Hi! My name is Javier and I'm a front end developer from Mexico 🇲🇽
+<h2> Hi! My name is Javier and I'm a front end developer from Mexico </h2> 
 
 ###
 <div align="center">

@@ -83,6 +83,6 @@ Estoy en busca de nuevos retos y oportunidades que me permitan expandir mis habi
 
 ### ⚡ **Dato Curioso**
 
-Soy una persona responsable, autodidacta y comprometida con mi trabajo. Apasionado por la tecnología y con gran entusiasmo por aprender, adquirir nuevos retos y conocimientos para crecer tanto personal como profesionalmente.
+...
 
 ---

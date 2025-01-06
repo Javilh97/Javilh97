@@ -1,4 +1,4 @@
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Javilh97/Javilh97/blob/main/README.es.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Javilh97/Javilh97/blob/main/README.md)
 
 ---
 

@@ -1,8 +1,8 @@
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/Javilh97/Javilh97/blob/main/README.es.md)
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Javilh97/Javilh97/blob/main/README.md)
 
 ---
 
-# 👋 Hi! My name is **Javier** and I'm a Front-End Developer from Mexico
+# 👋 ¡Hola! Mi nombre es **Javier López Hernández** y soy Desarrollador Front-End de México
 
 ### 
 <div align="center">
@@ -11,28 +11,28 @@
 
 ### 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="logo de javascript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="logo de typescript" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="logo de html5" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="logo de css3" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="angular logo" />
+  <img src="https://skillicons.dev/icons?i=angular" height="30" alt="logo de angular" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="logo de java" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="spring logo" />
+  <img src="https://skillicons.dev/icons?i=spring" height="30" alt="logo de spring" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="logo de postgresql" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="logo de mysql" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="logo de git" />
 </div>
 
-### 💻 **Current Skills**
+### 💻 **Habilidades Actuales**
 
 - **JavaScript**
 - **TypeScript**
@@ -45,31 +45,31 @@
 - **MySQL**
 - **Git**
 
-### 💼 **Certifications**
+### 💼 **Certificaciones**
 
 - **Programa Oracle Next Education F2 T6 Back-end** - Alura Latam
 
-### 💼 **Professional Experience**
+### 💼 **Experiencia Profesional**
 
 - **Invewin**
-  - Developed and implemented updates for company systems.
-  - Created and managed databases with Firebase.
-  - Programmed in C# and handled web services.
+  - Desarrollé e implementé actualizaciones para los sistemas de la empresa.
+  - Creé y gestioné bases de datos con Firebase.
+  - Programé en C# y manejé servicios web.
 
 - **MUNDOWEB**
-  - Worked on the development of web applications.
-  - Created and managed databases.
-  - Documented software and handled client requirements.
+  - Trabajé en el desarrollo de aplicaciones web.
+  - Creé y gestioné bases de datos.
+  - Documenté software y manejé requisitos de clientes.
 
-### 💬 **About Me**
+### 💬 **Acerca de Mí**
 
-A dedicated and self-taught individual, passionate about technology and committed to continuous personal and professional growth. Enthusiastic about tackling new challenges and acquiring new skills to enhance both technical expertise and overall career development.
+Soy una persona responsable, autodidacta y comprometida con mi trabajo. Apasionado por la tecnología y con gran entusiasmo por aprender, adquirir nuevos retos y conocimientos para crecer tanto personal como profesionalmente.
 
-### 💞️ **Looking for**
+### 💞️ **Buscando**
 
-Eager to embrace new challenges and opportunities that will push the boundaries of my skills and allow for further professional development. Open to roles that involve innovative projects and offer the chance to make a meaningful impact.
+Estoy en busca de nuevos retos y oportunidades que me permitan expandir mis habilidades y continuar con mi desarrollo profesional. Abierto a roles que involucren proyectos innovadores y que ofrezcan la posibilidad de hacer un impacto significativo.
 
-### 📫 **How to Reach Me**
+### 📫 **Cómo Contactarme**
 
 <div align="center">
   <a href="https://www.linkedin.com/in/javierlhernandez/" target="_blank">
@@ -81,10 +81,8 @@ Eager to embrace new challenges and opportunities that will push the boundaries 
   </a>
 </div>
 
-### ⚡ **Fun Fact**
+### ⚡ **Dato Curioso**
 
-Known for a strong sense of responsibility and a proactive approach to problem-solving. Driven by a deep-seated passion for cybersecurity and a constant quest for knowledge in the field, always from an ethical standpoint.
+Soy una persona responsable, autodidacta y comprometida con mi trabajo. Apasionado por la tecnología y con gran entusiasmo por aprender, adquirir nuevos retos y conocimientos para crecer tanto personal como profesionalmente.
 
-
-
-
+---

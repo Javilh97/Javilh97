@@ -83,6 +83,4 @@ Eager to embrace new challenges and opportunities that will push the boundaries 
 
 ### ⚡ **Fun Fact**
 
-Known for a strong sense of responsibility and a proactive approach to problem-solving. Driven by a deep-seated passion for cybersecurity and a constant quest for knowledge in the field, always from an ethical standpoint.
-
-
+...

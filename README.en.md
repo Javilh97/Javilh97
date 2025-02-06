@@ -81,6 +81,4 @@ Eager to embrace new challenges and opportunities that will push the boundaries 
   </a>
 </div>
 
-### ⚡ **Fun Fact**
-
 ...

@@ -81,8 +81,6 @@ Estoy en busca de nuevos retos y oportunidades que me permitan expandir mis habi
   </a>
 </div>
 
-### ⚡ **Dato Curioso**
-
 ...
 
 ---

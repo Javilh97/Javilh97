@@ -32,13 +32,14 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="logo de git" />
 </div>
 
-### 💻 **Habilidades Actuales**
+### 💻 **Tecnologias**
 
 - **JavaScript**
 - **TypeScript**
 - **HTML5**
 - **CSS3**
 - **Angular**
+- **Angular Material**
 - **Java**
 - **Spring Boot**
 - **PostgreSQL**
@@ -50,6 +51,12 @@
 - **Programa Oracle Next Education F2 T6 Back-end** - Alura Latam
 
 ### 💼 **Experiencia Profesional**
+
+- **SEMOVI - Secretaria de Movilidad**
+  - Desarrollo e implementacion de mejoras y actualizaciones en los sistemas web.
+  - Mantenimiento de sistemas web.
+  - Desarrollo web en angular
+  - Diseño de sistemas web en figma
 
 - **Invewin**
   - Desarrollé e implementé actualizaciones para los sistemas de la empresa.

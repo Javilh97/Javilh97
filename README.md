@@ -53,8 +53,6 @@
 ### 💼 **Experiencia Profesional**
 
 - **SEMOVI - Secretaria de Movilidad**
-  - Desarrollo e implementacion de mejoras y actualizaciones en los sistemas web.
-  - Mantenimiento de sistemas web.
   - Desarrollo web en angular
   - Diseño de sistemas web en figma
 

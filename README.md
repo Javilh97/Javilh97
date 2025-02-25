@@ -1,4 +1,4 @@
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Javilh97/Javilh97/blob/main/README.en.md)  <-- English
+[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/Javilh97/Javilh97/blob/main/README.en.md)  ☚ English
 
 ---
 
